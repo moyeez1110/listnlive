@@ -8,9 +8,9 @@
 // ============================================================
 
 const SHEET_URLS = {
-  businesses: 'YOUR_BUSINESSES_SHEET_CSV_URL',
-  news:       'YOUR_NEWS_SHEET_CSV_URL',
-  realestate: 'YOUR_REALESTATE_SHEET_CSV_URL',
+  businesses: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSxPturcFEVuIdQ1AtfagzGAZWSdcFxA59z-Fmw5GS8RT7j9g7A03vBbqTI4iJudTyfRtO58LKKP6q4/pub?gid=0&single=true&output=csv',
+  news:       'https://docs.google.com/spreadsheets/d/e/2PACX-1vSxPturcFEVuIdQ1AtfagzGAZWSdcFxA59z-Fmw5GS8RT7j9g7A03vBbqTI4iJudTyfRtO58LKKP6q4/pub?gid=2088797766&single=true&output=csv',
+  realestate: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSxPturcFEVuIdQ1AtfagzGAZWSdcFxA59z-Fmw5GS8RT7j9g7A03vBbqTI4iJudTyfRtO58LKKP6q4/pub?gid=328067825&single=true&output=csv',
 };
 
 // ============================================================
